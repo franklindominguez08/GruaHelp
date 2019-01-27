@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GruaHelp</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="grua">GRUA</string>
+    <string name="title_activity_vehicle__list">Vehicle_List</string>
+    <string name="adding_new_vehicle">Adding New Vehicle</string>
+</resources>
